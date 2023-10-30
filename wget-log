@@ -1,0 +1,6 @@
+--2023-10-30 15:33:55--  https://f1les.transforme.ai/repositorio/transforme-ai.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256
+Resolving f1les.transforme.ai (f1les.transforme.ai)... 162.55.211.58
+Connecting to f1les.transforme.ai (f1les.transforme.ai)|162.55.211.58|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2023-10-30 15:33:56 ERROR 403: Forbidden.
+
